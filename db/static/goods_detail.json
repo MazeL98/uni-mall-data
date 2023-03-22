@@ -1,0 +1,1855 @@
+[
+    {
+        "id": 11486786,
+        "title": "Midea/美的空调大1匹p新一级能效挂机壁挂式变频冷暖智能卧室家用",
+        "category_id": 1,
+        "cover": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+        "rating": 5,
+        "sale_count": 1,
+        "review_count": 0,
+        "min_price": "3099",
+        "min_oprice": "3499",
+        "desc": "新一级能效更节能/冷暖控温更智能/高频速冷热更人性化",
+        "unit": "台",
+        "stock": 10,
+        "min_stock": 1,
+        "ischeck": 1,
+        "status": 1,
+        "stock_display": 1,
+        "express_id": 1,
+        "sku_type": 1,
+        "sku_value": {
+            "oprice": 20,
+            "pprice": 30,
+            "cprice": 20,
+            "weight": 10,
+            "volume": 20
+        },
+        "goods_type_id": 2,
+        "content": "<img src=\"http://qiniuyun.mazel98.com/uni-mall/O1CN01hJlAvc1rUQFl4vehW_%21%212210852105634.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/O1CN01dnhd5X1rUQFtvgIVE_%21%212210852105634.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/O1CN012JRK9n1rUQ9OiYjpO_%21%212210852105634.jpg\">",
+        "discount": 10,
+        "create_time": "2019-08-25 17:43:24",
+        "update_time": "2023-03-21 05:59:50",
+        "delete_time": null,
+        "order": 50,
+        "hotComments": [
+            {
+                "id": 468784153837,
+                "rating": 5,
+                "review": {
+                    "data": "空调很好，安装师傅态度好",
+                    "image": [
+                        "http://qiniuyun.mazel98.com/uni-mall/O1CN01OrhDEB2N4NREnFaGj_%21%210-rate.jpg"
+                    ]
+                },
+                "review_time": "2023-01-04 20:34:27",
+                "goods_num": 0,
+                "user_id": 23453135536,
+                "user": {
+                    "id": 23453135536,
+                    "nickname": "黄****24",
+                    "avatar": "http://qiniuyun.mazel98.com/uni-mall/O1CN01GbZNxl26Vzotrjqli_%21%216000000007668-2-tps-160-160.png"
+                },
+                "context": "空调很好，安装师傅态度好",
+                "imglist": [
+                    {
+                        "src": "http://qiniuyun.mazel98.com/uni-mall/O1CN01OrhDEB2N4NREnFaGj_%21%210-rate.jpg"
+                    }
+                ]
+            }
+        ],
+        "hotList": [
+            {
+                "id": 11486786,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+                "title": "Midea/美的空调大1匹p新一级能效挂机壁挂式变频冷暖智能卧室家用",
+                "desc": "新一级能效更节能/冷暖控温更智能/高频速冷热更人性化",
+                "oprice": 3499,
+                "pprice": 3099
+            },
+            {
+                "id": 13548564,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+                "title": "Samsung/三星 Galaxy S23旗舰新品智能手机第二代骁龙8超视觉夜拍 三星官方旗舰店官网",
+                "desc": "专业影像/超亮全视护眼屏/OneUI5.0彰显风格",
+                "oprice": 5399,
+                "pprice": 5199
+            },
+            {
+                "id": 94981324,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+                "title": "西门子501L双开门家用电冰箱官方风冷无霜大容量NA20",
+                "desc": "超薄嵌入风冷无霜/德系精工长效保鲜/501L大容量",
+                "oprice": 5690,
+                "pprice": 4790
+            },
+            {
+                "id": 87743898,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+                "title": "坚果N1 Ultra三色激光投影仪家用",
+                "desc": "4K超高清投屏移动投影机2022新款 高亮客厅云台墙投巨幕家庭影院",
+                "oprice": 11109,
+                "pprice": 8999
+            },
+            {
+                "id": 25348978,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+                "title": "Lenovo/联想 拯救者 R9000P R7-5800H RTX3060笔记本电脑",
+                "desc": "16英寸无界大屏/双面金属质感升级/霜刃Pro散热系统3.0",
+                "oprice": 9399,
+                "pprice": 8247
+            },
+            {
+                "id": 63175243,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+                "title": "B&O Beoplay E8 3.0三代真无线蓝牙高音质入耳式bo音乐耳机",
+                "desc": "35小时超长续航/专业调校临场听感/戴若无物舒适体验",
+                "oprice": 1898,
+                "pprice": 1098
+            }
+        ],
+        "goodsBanner": [
+            {
+                "id": 1,
+                "goods_id": 11486786,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 2,
+                "goods_id": 11486786,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/O1CN01CNEstc1rUQ78Xgfv5_%21%212210852105634.jpg_790x10000q50.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 3,
+                "goods_id": 11486786,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/O1CN01E8TGSe1rUQ7BW0qFh_%21%212210852105634.jpg_790x10000q50.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 4,
+                "goods_id": 11486786,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/O1CN013ko1Yi1rUQ7AgkIC6_%21%212210852105634.jpg_790x10000q50.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 5,
+                "goods_id": 11486786,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/O1CN01WHFlDO1rUQ7FAcXci_%21%212210852105634.jpg_790x10000q50.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            }
+        ],
+        "goodsAttrs": [
+            {
+                "id": 1,
+                "goods_id": 11486786,
+                "order": 50,
+                "value": "除菌",
+                "name": "功能",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 2,
+                "goods_id": 11486786,
+                "order": 50,
+                "value": "大1匹",
+                "name": "空调功率",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "goods_id": 11486786,
+                "order": 50,
+                "value": "中国大陆",
+                "name": "产地",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 4,
+                "goods_id": 11486786,
+                "order": 50,
+                "value": "壁挂式",
+                "name": "空调类型",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "goods_id": 11486786,
+                "order": 50,
+                "value": "一级",
+                "name": "能效等级",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 6,
+                "goods_id": 11486786,
+                "order": 50,
+                "value": "小于180°送风",
+                "name": "送风方式",
+                "default": "默认值",
+                "type": 0
+            }
+        ],
+        "goodsSkus": [
+            {
+                "id": 2,
+                "image": "",
+                "pprice": "3499",
+                "oprice": "3099",
+                "cprice": "10.00",
+                "stock": 5,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 11486786,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "颜色",
+                        "value": "白色"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "套餐",
+                        "value": "标配"
+                    }
+                }
+            }
+        ],
+        "goodsSkusCard": [
+            {
+                "id": 1,
+                "goods_id": 11486786,
+                "name": "颜色",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 1,
+                        "name": "颜色",
+                        "value": "白色",
+                        "order": 50
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "goods_id": 11486786,
+                "name": "套餐",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 5,
+                        "goods_skus_card_id": 2,
+                        "name": "套餐",
+                        "value": "标配",
+                        "order": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13548564,
+        "title": "Samsung/三星 Galaxy S23旗舰新品智能手机第二代骁龙8超视觉夜拍 三星官方旗舰店官网",
+        "category_id": 1,
+        "cover": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+        "rating": 5,
+        "sale_count": 1,
+        "review_count": 0,
+        "min_price": "5199",
+        "min_oprice": "5399",
+        "desc": "专业影像/超亮全视护眼屏/OneUI5.0彰显风格",
+        "unit": "台",
+        "stock": 30,
+        "min_stock": 1,
+        "ischeck": 1,
+        "status": 1,
+        "stock_display": 1,
+        "express_id": 1,
+        "sku_type": 1,
+        "sku_value": {
+            "oprice": 5399,
+            "pprice": 5199,
+            "cprice": 200,
+            "weight": 10,
+            "volume": 20
+        },
+        "goods_type_id": 2,
+        "content": "<img src=\"http://qiniuyun.mazel98.com/uni-mall/samsungcontent1.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/samsungcontent2.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/samsungcontent3.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/samsungcontent4.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/samsungcontent5.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/samsungcontent6.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/samsungcontent7.jpg\">",
+        "discount": 10,
+        "create_time": "2019-08-25 17:43:24",
+        "update_time": "2023-03-21 05:59:50",
+        "delete_time": null,
+        "order": 50,
+        "hotComments": [
+            {
+                "id": 468784749437,
+                "rating": 5,
+                "review": {
+                    "data": "第二个三星手机，优秀！",
+                    "image": [
+                        "http://qiniuyun.mazel98.com/uni-mall/samsungcomment1.jpg"
+                    ]
+                },
+                "review_time": "2023-01-04 20:34:27",
+                "goods_num": 0,
+                "user_id": 78921135536,
+                "user": {
+                    "id": 78921135536,
+                    "nickname": "李***223",
+                    "avatar": "http://qiniuyun.mazel98.com/uni-mall/O1CN01GbZNxl26Vzotrjqli_%21%216000000007668-2-tps-160-160.png"
+                },
+                "context": "第二个三星手机，优秀！",
+                "imglist": [
+                    {
+                        "src": "http://qiniuyun.mazel98.com/uni-mall/samsungcomment1.jpg"
+                    }
+                ]
+            }
+        ],
+        "hotList": [
+            {
+                "id": 11486786,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+                "title": "Midea/美的空调大1匹p新一级能效挂机壁挂式变频冷暖智能卧室家用",
+                "desc": "新一级能效更节能/冷暖控温更智能/高频速冷热更人性化",
+                "oprice": 3499,
+                "pprice": 3099
+            },
+            {
+                "id": 13548564,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+                "title": "Samsung/三星 Galaxy S23旗舰新品智能手机第二代骁龙8超视觉夜拍 三星官方旗舰店官网",
+                "desc": "专业影像/超亮全视护眼屏/OneUI5.0彰显风格",
+                "oprice": 5399,
+                "pprice": 5199
+            },
+            {
+                "id": 94981324,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+                "title": "西门子501L双开门家用电冰箱官方风冷无霜大容量NA20",
+                "desc": "超薄嵌入风冷无霜/德系精工长效保鲜/501L大容量",
+                "oprice": 5690,
+                "pprice": 4790
+            },
+            {
+                "id": 87743898,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+                "title": "坚果N1 Ultra三色激光投影仪家用",
+                "desc": "4K超高清投屏移动投影机2022新款 高亮客厅云台墙投巨幕家庭影院",
+                "oprice": 11109,
+                "pprice": 8999
+            },
+            {
+                "id": 25348978,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+                "title": "Lenovo/联想 拯救者 R9000P R7-5800H RTX3060笔记本电脑",
+                "desc": "16英寸无界大屏/双面金属质感升级/霜刃Pro散热系统3.0",
+                "oprice": 9399,
+                "pprice": 8247
+            },
+            {
+                "id": 63175243,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+                "title": "B&O Beoplay E8 3.0三代真无线蓝牙高音质入耳式bo音乐耳机",
+                "desc": "35小时超长续航/专业调校临场听感/戴若无物舒适体验",
+                "oprice": 1898,
+                "pprice": 1098
+            }
+        ],
+        "goodsBanner": [
+            {
+                "id": 1,
+                "goods_id": 13548564,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 2,
+                "goods_id": 13548564,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/samsung2.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 3,
+                "goods_id": 13548564,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/samsung3.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 4,
+                "goods_id": 13548564,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/samsung4.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            }
+        ],
+        "goodsAttrs": [
+            {
+                "id": 1,
+                "goods_id": 13548564,
+                "order": 50,
+                "value": "Samsung/三星",
+                "name": "品牌",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 2,
+                "goods_id": 13548564,
+                "order": 50,
+                "value": "Type-C",
+                "name": "接口类型",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "goods_id": 13548564,
+                "order": 50,
+                "value": "2340x1080",
+                "name": "分辨率",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 4,
+                "goods_id": 13548564,
+                "order": 50,
+                "value": "5G智能手机",
+                "name": "手机类型",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "goods_id": 13548564,
+                "order": 50,
+                "value": "120Hz",
+                "name": "屏幕刷新率",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 6,
+                "goods_id": 13548564,
+                "order": 50,
+                "value": "高通骁龙",
+                "name": "CPU品牌",
+                "default": "默认值",
+                "type": 0
+            }
+        ],
+        "goodsSkus": [
+            {
+                "id": 1,
+                "image": "",
+                "pprice": "5199",
+                "oprice": "5399",
+                "cprice": "200",
+                "stock": 5,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠柔白"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+128GB"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "image": "",
+                "pprice": "5199",
+                "oprice": "5399",
+                "cprice": "200",
+                "stock": 3,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠远黑"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+128GB"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "image": "",
+                "pprice": "5199",
+                "oprice": "5399",
+                "cprice": "200",
+                "stock": 15,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠野绿"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+128GB"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "image": "",
+                "pprice": "5699",
+                "oprice": "5899",
+                "cprice": "200",
+                "stock": 9,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠柔白"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+256GB"
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "image": "",
+                "pprice": "5699",
+                "oprice": "5899",
+                "cprice": "200",
+                "stock": 10,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠远黑"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+256GB"
+                    }
+                }
+            },
+            {
+                "id": 6,
+                "image": "",
+                "pprice": "5699",
+                "oprice": "5899",
+                "cprice": "200",
+                "stock": 4,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠野绿"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+256GB"
+                    }
+                }
+            },
+            {
+                "id": 7,
+                "image": "",
+                "pprice": "6499",
+                "oprice": "6699",
+                "cprice": "200",
+                "stock": 20,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠柔白"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+512GB"
+                    }
+                }
+            },
+            {
+                "id": 8,
+                "image": "",
+                "pprice": "6499",
+                "oprice": "6699",
+                "cprice": "200",
+                "stock": 25,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠远黑"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+512GB"
+                    }
+                }
+            },
+            {
+                "id": 9,
+                "image": "",
+                "pprice": "6499",
+                "oprice": "6699",
+                "cprice": "200",
+                "stock": 30,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 13548564,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "机身颜色",
+                        "value": "悠野绿"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 5,
+                        "name": "存储容量",
+                        "value": "8GB+512GB"
+                    }
+                }
+            }
+        ],
+        "goodsSkusCard": [
+            {
+                "id": 1,
+                "goods_id": 13548564,
+                "name": "机身颜色",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 1,
+                        "name": "机身颜色",
+                        "value": "悠柔白",
+                        "order": 50
+                    },
+                    {
+                        "id": 2,
+                        "goods_skus_card_id": 1,
+                        "name": "机身颜色",
+                        "value": "悠远黑",
+                        "order": 50
+                    },
+                    {
+                        "id": 3,
+                        "goods_skus_card_id": 1,
+                        "name": "机身颜色",
+                        "value": "悠野绿",
+                        "order": 50
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "goods_id": 13548564,
+                "name": "存储容量",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 2,
+                        "name": "存储容量",
+                        "value": "8GB+128GB",
+                        "order": 50
+                    },
+                    {
+                        "id": 2,
+                        "goods_skus_card_id": 2,
+                        "name": "存储容量",
+                        "value": "8GB+256GB",
+                        "order": 50
+                    },
+                    {
+                        "id": 3,
+                        "goods_skus_card_id": 2,
+                        "name": "存储容量",
+                        "value": "8GB+512GB",
+                        "order": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25348978,
+        "title": "Lenovo/联想 拯救者 R9000P R7-5800H RTX3060笔记本电脑",
+        "category_id": 1,
+        "cover": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+        "rating": 5,
+        "sale_count": 1,
+        "review_count": 0,
+        "min_price": "8247",
+        "min_oprice": "9399",
+        "desc": "16英寸无界大屏/双面金属质感升级/霜刃Pro散热系统3.0",
+        "unit": "台",
+        "stock": 10,
+        "min_stock": 1,
+        "ischeck": 1,
+        "status": 1,
+        "stock_display": 1,
+        "express_id": 1,
+        "sku_type": 1,
+        "sku_value": {
+            "oprice": 9399,
+            "pprice": 8247,
+            "cprice": 200,
+            "weight": 10,
+            "volume": 20
+        },
+        "goods_type_id": 2,
+        "content": "<img src=\"http://qiniuyun.mazel98.com/uni-mall/lenovocontent1.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/lenovocontent2.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/lenovocontent3.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/lenovocontent4.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/lenovocontent5.jpg\">",
+        "discount": 10,
+        "create_time": "2019-08-25 17:43:24",
+        "update_time": "2023-03-21 05:59:50",
+        "delete_time": null,
+        "order": 50,
+        "hotComments": [
+            {
+                "id": 466247158437,
+                "rating": 5,
+                "review": {
+                    "data": "电脑收到了，包装很好，没有什么磕碰，开机流畅！ ",
+                    "image": [
+                        "http://qiniuyun.mazel98.com/uni-mall/lenovocomment1.png"
+                    ]
+                },
+                "review_time": "2023-01-04 20:34:27",
+                "goods_num": 0,
+                "user_id": 23741139434,
+                "user": {
+                    "id": 23741139434,
+                    "nickname": "安***5",
+                    "avatar": "http://qiniuyun.mazel98.com/uni-mall/O1CN01GbZNxl26Vzotrjqli_%21%216000000007668-2-tps-160-160.png"
+                },
+                "context": "电脑收到了，包装很好，没有什么磕碰，开机流畅！ ",
+                "imglist": [
+                    {
+                        "src": "http://qiniuyun.mazel98.com/uni-mall/lenovocomment1.png"
+                    }
+                ]
+            }
+        ],
+        "hotList": [
+            {
+                "id": 11486786,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+                "title": "Midea/美的空调大1匹p新一级能效挂机壁挂式变频冷暖智能卧室家用",
+                "desc": "新一级能效更节能/冷暖控温更智能/高频速冷热更人性化",
+                "oprice": 3499,
+                "pprice": 3099
+            },
+            {
+                "id": 13548564,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+                "title": "Samsung/三星 Galaxy S23旗舰新品智能手机第二代骁龙8超视觉夜拍 三星官方旗舰店官网",
+                "desc": "专业影像/超亮全视护眼屏/OneUI5.0彰显风格",
+                "oprice": 5399,
+                "pprice": 5199
+            },
+            {
+                "id": 94981324,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+                "title": "西门子501L双开门家用电冰箱官方风冷无霜大容量NA20",
+                "desc": "超薄嵌入风冷无霜/德系精工长效保鲜/501L大容量",
+                "oprice": 5690,
+                "pprice": 4790
+            },
+            {
+                "id": 87743898,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+                "title": "坚果N1 Ultra三色激光投影仪家用",
+                "desc": "4K超高清投屏移动投影机2022新款 高亮客厅云台墙投巨幕家庭影院",
+                "oprice": 11109,
+                "pprice": 8999
+            },
+            {
+                "id": 25348978,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+                "title": "Lenovo/联想 拯救者 R9000P R7-5800H RTX3060笔记本电脑",
+                "desc": "16英寸无界大屏/双面金属质感升级/霜刃Pro散热系统3.0",
+                "oprice": 9399,
+                "pprice": 8247
+            },
+            {
+                "id": 63175243,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+                "title": "B&O Beoplay E8 3.0三代真无线蓝牙高音质入耳式bo音乐耳机",
+                "desc": "35小时超长续航/专业调校临场听感/戴若无物舒适体验",
+                "oprice": 1898,
+                "pprice": 1098
+            }
+        ],
+        "goodsBanner": [
+            {
+                "id": 1,
+                "goods_id": 25348978,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 2,
+                "goods_id": 25348978,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner2.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 3,
+                "goods_id": 25348978,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner3.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 4,
+                "goods_id": 25348978,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner4.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            }
+        ],
+        "goodsAttrs": [
+            {
+                "id": 1,
+                "goods_id": 25348978,
+                "order": 50,
+                "value": "Lenovo/联想",
+                "name": "品牌",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 2,
+                "goods_id": 25348978,
+                "order": 50,
+                "value": "拯救者",
+                "name": "系列",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "goods_id": 25348978,
+                "order": 50,
+                "value": "R9000P",
+                "name": "型号",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 4,
+                "goods_id": 25348978,
+                "order": 50,
+                "value": "16GB",
+                "name": "内存容量",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "goods_id": 25348978,
+                "order": 50,
+                "value": "AMD R7 5800H",
+                "name": "CPU",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 6,
+                "goods_id": 25348978,
+                "order": 50,
+                "value": "2.5kg及以上",
+                "name": "重量",
+                "default": "默认值",
+                "type": 0
+            }
+        ],
+        "goodsSkus": [
+            {
+                "id": 1,
+                "image": "",
+                "pprice": "8247",
+                "oprice": "9399",
+                "cprice": "200",
+                "stock": 10,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 25348978,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "内存容量",
+                        "value": "16GB"
+                    },
+                    "1": {
+                        "goods_skus_card_id": 2,
+                        "id": 2,
+                        "name": "硬盘容量",
+                        "value": "512GB固态硬盘"
+                    }
+                }
+            }
+        ],
+        "goodsSkusCard": [
+            {
+                "id": 1,
+                "goods_id": 25348978,
+                "name": "内存容量",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 1,
+                        "name": "内存容量",
+                        "value": "16GB",
+                        "order": 50
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "goods_id": 25348978,
+                "name": "硬盘容量",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 1,
+                        "name": "硬盘容量",
+                        "value": "512GB固态硬盘",
+                        "order": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 87743898,
+        "title": "坚果N1 Ultra三色激光投影仪家用",
+        "category_id": 1,
+        "cover": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+        "rating": 5,
+        "sale_count": 1,
+        "review_count": 0,
+        "min_price": "8999",
+        "min_oprice": "11109",
+        "desc": "4K超高清投屏移动投影机2022新款 高亮客厅云台墙投巨幕家庭影院",
+        "unit": "台",
+        "stock": 15,
+        "min_stock": 1,
+        "ischeck": 1,
+        "status": 1,
+        "stock_display": 1,
+        "express_id": 1,
+        "sku_type": 1,
+        "sku_value": {
+            "oprice": 11109,
+            "pprice": 8999,
+            "cprice": 200,
+            "weight": 10,
+            "volume": 20
+        },
+        "goods_type_id": 2,
+        "content": "<img src=\"http://qiniuyun.mazel98.com/uni-mall/JMGOcontent1.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/JMGOcontent2.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/JMGOcontent3.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/JMGOcontent4.jpg\">",
+        "discount": 10,
+        "create_time": "2019-08-25 17:43:24",
+        "update_time": "2023-03-21 05:59:50",
+        "delete_time": null,
+        "order": 50,
+        "hotComments": [
+            {
+                "id": 465394528437,
+                "rating": 5,
+                "review": {
+                    "data": "第一次买投影仪 直接一步到位 买回来 试看 感觉还不错  搭配荧幕 看着更清晰",
+                    "image": [
+                        "http://qiniuyun.mazel98.com/uni-mall/JMGOcomment1.jpg",
+                        "http://qiniuyun.mazel98.com/uni-mall/JMGOcomment3.jpg"
+                    ]
+                },
+                "review_time": "2023-01-04 20:34:27",
+                "goods_num": 0,
+                "user_id": 34824139434,
+                "user": {
+                    "id": 34824139434,
+                    "nickname": "c***e",
+                    "avatar": "http://qiniuyun.mazel98.com/uni-mall/O1CN01GbZNxl26Vzotrjqli_%21%216000000007668-2-tps-160-160.png"
+                },
+                "context": "第一次买投影仪 直接一步到位 买回来 试看 感觉还不错  搭配荧幕 看着更清晰",
+                "imglist": [
+                    {
+                        "src": "http://qiniuyun.mazel98.com/uni-mall/JMGOcomment1.jpg"
+                    },
+                    {
+                        "src": "http://qiniuyun.mazel98.com/uni-mall/JMGOcomment3.jpg"
+                    }
+                ]
+            }
+        ],
+        "hotList": [
+            {
+                "id": 11486786,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+                "title": "Midea/美的空调大1匹p新一级能效挂机壁挂式变频冷暖智能卧室家用",
+                "desc": "新一级能效更节能/冷暖控温更智能/高频速冷热更人性化",
+                "oprice": 3499,
+                "pprice": 3099
+            },
+            {
+                "id": 13548564,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+                "title": "Samsung/三星 Galaxy S23旗舰新品智能手机第二代骁龙8超视觉夜拍 三星官方旗舰店官网",
+                "desc": "专业影像/超亮全视护眼屏/OneUI5.0彰显风格",
+                "oprice": 5399,
+                "pprice": 5199
+            },
+            {
+                "id": 94981324,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+                "title": "西门子501L双开门家用电冰箱官方风冷无霜大容量NA20",
+                "desc": "超薄嵌入风冷无霜/德系精工长效保鲜/501L大容量",
+                "oprice": 5690,
+                "pprice": 4790
+            },
+            {
+                "id": 87743898,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+                "title": "坚果N1 Ultra三色激光投影仪家用",
+                "desc": "4K超高清投屏移动投影机2022新款 高亮客厅云台墙投巨幕家庭影院",
+                "oprice": 11109,
+                "pprice": 8999
+            },
+            {
+                "id": 25348978,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+                "title": "Lenovo/联想 拯救者 R9000P R7-5800H RTX3060笔记本电脑",
+                "desc": "16英寸无界大屏/双面金属质感升级/霜刃Pro散热系统3.0",
+                "oprice": 9399,
+                "pprice": 8247
+            },
+            {
+                "id": 63175243,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+                "title": "B&O Beoplay E8 3.0三代真无线蓝牙高音质入耳式bo音乐耳机",
+                "desc": "35小时超长续航/专业调校临场听感/戴若无物舒适体验",
+                "oprice": 1898,
+                "pprice": 1098
+            }
+        ],
+        "goodsBanner": [
+            {
+                "id": 1,
+                "goods_id": 87743898,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 2,
+                "goods_id": 87743898,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner2.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 3,
+                "goods_id": 87743898,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner3.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 4,
+                "goods_id": 87743898,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner4.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            }
+        ],
+        "goodsAttrs": [
+            {
+                "id": 1,
+                "goods_id": 87743898,
+                "order": 50,
+                "value": "JMGO/坚果",
+                "name": "品牌",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 2,
+                "goods_id": 87743898,
+                "order": 50,
+                "value": "中国大陆",
+                "name": "产地",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "goods_id": 87743898,
+                "order": 50,
+                "value": "玻璃树脂混合",
+                "name": "镜头材质",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 4,
+                "goods_id": 87743898,
+                "order": 50,
+                "value": "4.5kg",
+                "name": "机体重量",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "goods_id": 87743898,
+                "order": 50,
+                "value": "定焦",
+                "name": "变焦倍数",
+                "default": "默认值",
+                "type": 0
+            }
+        ],
+        "goodsSkus": [
+            {
+                "id": 1,
+                "image": "",
+                "pprice": "8999",
+                "oprice": "11109",
+                "cprice": "200",
+                "stock": 15,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 87743898,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "套餐",
+                        "value": "N1 Ultra"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "image": "",
+                "pprice": "9399",
+                "oprice": "11608",
+                "cprice": "200",
+                "stock": 1,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 87743898,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "套餐",
+                        "value": "N1 Ultra+T形云台落地支架"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "image": "",
+                "pprice": "10498",
+                "oprice": "12498",
+                "cprice": "200",
+                "stock": 3,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 87743898,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "套餐",
+                        "value": "N1 Ultra+100英寸幕布"
+                    }
+                }
+            }
+        ],
+        "goodsSkusCard": [
+            {
+                "id": 1,
+                "goods_id": 87743898,
+                "name": "套餐",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 1,
+                        "name": "套餐",
+                        "value": "N1 Ultra",
+                        "order": 50
+                    },
+                    {
+                        "id": 2,
+                        "goods_skus_card_id": 1,
+                        "name": "套餐",
+                        "value": "N1 Ultra+T形云台落地支架",
+                        "order": 50
+                    },
+                    {
+                        "id": 3,
+                        "goods_skus_card_id": 1,
+                        "name": "套餐",
+                        "value": "N1 Ultra+100英寸幕布",
+                        "order": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 63175243,
+        "title": "B&O Beoplay E8 3.0三代真无线蓝牙高音质入耳式bo音乐耳机",
+        "category_id": 1,
+        "cover": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+        "rating": 5,
+        "sale_count": 1,
+        "review_count": 0,
+        "min_price": "1098",
+        "min_oprice": "1898",
+        "desc": "35小时超长续航/专业调校临场听感/戴若无物舒适体验",
+        "unit": "台",
+        "stock": 233,
+        "min_stock": 1,
+        "ischeck": 1,
+        "status": 1,
+        "stock_display": 1,
+        "express_id": 1,
+        "sku_type": 1,
+        "sku_value": {
+            "oprice": 1898,
+            "pprice": 1098,
+            "cprice": 200,
+            "weight": 10,
+            "volume": 20
+        },
+        "goods_type_id": 4,
+        "content": "<img src=\"http://qiniuyun.mazel98.com/uni-mall/BOcontent1.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/BOcontent2.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/BOcontent3.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/BOcontent4.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/BOcontent5.jpg\">",
+        "discount": 10,
+        "create_time": "2019-08-25 17:43:24",
+        "update_time": "2023-03-21 05:59:50",
+        "delete_time": null,
+        "order": 50,
+        "hotComments": [
+            {
+                "id": 323671436317,
+                "rating": 5,
+                "review": {
+                    "data": "做工精致上档次，还可以无线充电，音质清澈，低音充实",
+                    "image": [
+                        "http://qiniuyun.mazel98.com/uni-mall/BOcomment1.jpg"
+                    ]
+                },
+                "review_time": "2023-01-04 20:34:27",
+                "goods_num": 1,
+                "user_id": 32861136217,
+                "user": {
+                    "id": 32861136217,
+                    "nickname": "g***n",
+                    "avatar": "http://qiniuyun.mazel98.com/uni-mall/O1CN01GbZNxl26Vzotrjqli_%21%216000000007668-2-tps-160-160.png"
+                },
+                "context": "做工精致上档次，还可以无线充电，音质清澈，低音充实 ",
+                "imglist": [
+                    {
+                        "src": "http://qiniuyun.mazel98.com/uni-mall/BOcomment1.jpg"
+                    }
+                ]
+            }
+        ],
+        "hotList": [
+            {
+                "id": 11486786,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+                "title": "Midea/美的空调大1匹p新一级能效挂机壁挂式变频冷暖智能卧室家用",
+                "desc": "新一级能效更节能/冷暖控温更智能/高频速冷热更人性化",
+                "oprice": 3499,
+                "pprice": 3099
+            },
+            {
+                "id": 13548564,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+                "title": "Samsung/三星 Galaxy S23旗舰新品智能手机第二代骁龙8超视觉夜拍 三星官方旗舰店官网",
+                "desc": "专业影像/超亮全视护眼屏/OneUI5.0彰显风格",
+                "oprice": 5399,
+                "pprice": 5199
+            },
+            {
+                "id": 94981324,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+                "title": "西门子501L双开门家用电冰箱官方风冷无霜大容量NA20",
+                "desc": "超薄嵌入风冷无霜/德系精工长效保鲜/501L大容量",
+                "oprice": 5690,
+                "pprice": 4790
+            },
+            {
+                "id": 87743898,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+                "title": "坚果N1 Ultra三色激光投影仪家用",
+                "desc": "4K超高清投屏移动投影机2022新款 高亮客厅云台墙投巨幕家庭影院",
+                "oprice": 11109,
+                "pprice": 8999
+            },
+            {
+                "id": 25348978,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+                "title": "Lenovo/联想 拯救者 R9000P R7-5800H RTX3060笔记本电脑",
+                "desc": "16英寸无界大屏/双面金属质感升级/霜刃Pro散热系统3.0",
+                "oprice": 9399,
+                "pprice": 8247
+            },
+            {
+                "id": 63175243,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+                "title": "B&O Beoplay E8 3.0三代真无线蓝牙高音质入耳式bo音乐耳机",
+                "desc": "35小时超长续航/专业调校临场听感/戴若无物舒适体验",
+                "oprice": 1898,
+                "pprice": 1098
+            }
+        ],
+        "goodsBanner": [
+            {
+                "id": 1,
+                "goods_id": 63175243,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 2,
+                "goods_id": 63175243,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/BObanner2.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 3,
+                "goods_id": 63175243,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/BObanner3.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 4,
+                "goods_id": 63175243,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/BObanner4.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            }
+        ],
+        "goodsAttrs": [
+            {
+                "id": 1,
+                "goods_id": 63175243,
+                "order": 50,
+                "value": "B&O",
+                "name": "品牌",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 2,
+                "goods_id": 63175243,
+                "order": 50,
+                "value": "中国大陆",
+                "name": "产地",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "goods_id": 63175243,
+                "order": 50,
+                "value": "BeoPlay E8 3rd Gen",
+                "name": "型号",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 4,
+                "goods_id": 63175243,
+                "order": 50,
+                "value": "5.1",
+                "name": "蓝牙版本",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "goods_id": 63175243,
+                "order": 50,
+                "value": "真无线耳机",
+                "name": "耳机类别",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 6,
+                "goods_id": 63175243,
+                "order": 50,
+                "value": "IPX3",
+                "name": "防水性能",
+                "default": "默认值",
+                "type": 0
+            }
+        ],
+        "goodsSkus": [
+            {
+                "id": 1,
+                "image": "",
+                "pprice": "1098",
+                "oprice": "1898",
+                "cprice": "200",
+                "stock": 100,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 63175243,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "颜色分类",
+                        "value": "粉色"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "image": "",
+                "pprice": "1098",
+                "oprice": "1898",
+                "cprice": "200",
+                "stock": 33,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 63175243,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "颜色分类",
+                        "value": "黑色"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "image": "",
+                "pprice": "1098",
+                "oprice": "1898",
+                "cprice": "200",
+                "stock": 100,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 63175243,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "颜色分类",
+                        "value": "褐红色"
+                    }
+                }
+            }
+        ],
+        "goodsSkusCard": [
+            {
+                "id": 1,
+                "goods_id": 63175243,
+                "name": "颜色分类",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 1,
+                        "name": "颜色分类",
+                        "value": "粉色",
+                        "order": 50
+                    },
+                    {
+                        "id": 2,
+                        "goods_skus_card_id": 1,
+                        "name": "颜色分类",
+                        "value": "黑色",
+                        "order": 50
+                    },
+                    {
+                        "id": 3,
+                        "goods_skus_card_id": 1,
+                        "name": "颜色分类",
+                        "value": "褐红色",
+                        "order": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 94981324,
+        "title": "西门子501L双开门家用电冰箱官方风冷无霜大容量NA20",
+        "category_id": 1,
+        "cover": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+        "rating": 5,
+        "sale_count": 1,
+        "review_count": 0,
+        "min_price": "5199",
+        "min_oprice": "5399",
+        "desc": "超薄嵌入风冷无霜/德系精工长效保鲜/501L大容量",
+        "unit": "台",
+        "stock": 50,
+        "min_stock": 1,
+        "ischeck": 1,
+        "status": 1,
+        "stock_display": 1,
+        "express_id": 1,
+        "sku_type": 1,
+        "sku_value": {
+            "oprice": 5690,
+            "pprice": 4790,
+            "cprice": 200,
+            "weight": 10,
+            "volume": 20
+        },
+        "goods_type_id": 2,
+        "content": "<img src=\"http://qiniuyun.mazel98.com/uni-mall/siemenscontent0.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/siemenscontent1.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/siemenscontent2.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/siemenscontent3.jpg\"><img src=\"http://qiniuyun.mazel98.com/uni-mall/siemenscontent4.jpg\">",
+        "discount": 10,
+        "create_time": "2019-08-25 17:43:24",
+        "update_time": "2023-03-21 05:59:50",
+        "delete_time": null,
+        "order": 50,
+        "hotComments": [
+            {
+                "id": 468761828437,
+                "rating": 5,
+                "review": {
+                    "data": "冰箱使用了一段时间了，质量很好，比实体店便宜很多，容量很大，保鲜和冷冻效果都很好！",
+                    "image": [
+                        "http://qiniuyun.mazel98.com/uni-mall/siementscomment1.jpg"
+                    ]
+                },
+                "review_time": "2023-01-04 20:34:27",
+                "goods_num": 0,
+                "user_id": 78871139434,
+                "user": {
+                    "id": 78871139434,
+                    "nickname": "温***酒",
+                    "avatar": "http://qiniuyun.mazel98.com/uni-mall/O1CN01GbZNxl26Vzotrjqli_%21%216000000007668-2-tps-160-160.png"
+                },
+                "context": "冰箱使用了一段时间了，质量很好，比实体店便宜很多，容量很大，保鲜和冷冻效果都很好！",
+                "imglist": [
+                    {
+                        "src": "http://qiniuyun.mazel98.com/uni-mall/siementscomment1.jpg"
+                    }
+                ]
+            }
+        ],
+        "hotList": [
+            {
+                "id": 11486786,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/O1CN01SDgCtV1rUQ6zO1Fuu_%21%212210852105634.jpg_790x10000q50.jpg",
+                "title": "Midea/美的空调大1匹p新一级能效挂机壁挂式变频冷暖智能卧室家用",
+                "desc": "新一级能效更节能/冷暖控温更智能/高频速冷热更人性化",
+                "oprice": 3499,
+                "pprice": 3099
+            },
+            {
+                "id": 13548564,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/samsung1.jpg",
+                "title": "Samsung/三星 Galaxy S23旗舰新品智能手机第二代骁龙8超视觉夜拍 三星官方旗舰店官网",
+                "desc": "专业影像/超亮全视护眼屏/OneUI5.0彰显风格",
+                "oprice": 5399,
+                "pprice": 5199
+            },
+            {
+                "id": 94981324,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+                "title": "西门子501L双开门家用电冰箱官方风冷无霜大容量NA20",
+                "desc": "超薄嵌入风冷无霜/德系精工长效保鲜/501L大容量",
+                "oprice": 5690,
+                "pprice": 4790
+            },
+            {
+                "id": 87743898,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/JMGObanner1.jpg",
+                "title": "坚果N1 Ultra三色激光投影仪家用",
+                "desc": "4K超高清投屏移动投影机2022新款 高亮客厅云台墙投巨幕家庭影院",
+                "oprice": 11109,
+                "pprice": 8999
+            },
+            {
+                "id": 25348978,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/lenovobanner1.jpg",
+                "title": "Lenovo/联想 拯救者 R9000P R7-5800H RTX3060笔记本电脑",
+                "desc": "16英寸无界大屏/双面金属质感升级/霜刃Pro散热系统3.0",
+                "oprice": 9399,
+                "pprice": 8247
+            },
+            {
+                "id": 63175243,
+                "cover": "http://qiniuyun.mazel98.com/uni-mall/BObanner1.jpg",
+                "title": "B&O Beoplay E8 3.0三代真无线蓝牙高音质入耳式bo音乐耳机",
+                "desc": "35小时超长续航/专业调校临场听感/戴若无物舒适体验",
+                "oprice": 1898,
+                "pprice": 1098
+            }
+        ],
+        "goodsBanner": [
+            {
+                "id": 1,
+                "goods_id": 94981324,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner1.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 2,
+                "goods_id": 94981324,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner2.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 3,
+                "goods_id": 94981324,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner3.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 4,
+                "goods_id": 94981324,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner4.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            },
+            {
+                "id": 5,
+                "goods_id": 94981324,
+                "url": "http://qiniuyun.mazel98.com/uni-mall/siemensbanner5.jpg",
+                "create_time": "2019-09-23 13:55:25",
+                "update_time": "2019-09-23 13:55:25"
+            }
+        ],
+        "goodsAttrs": [
+            {
+                "id": 1,
+                "goods_id": 94981324,
+                "order": 50,
+                "value": "SIEMENS/西门子",
+                "name": "品牌",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 2,
+                "goods_id": 94981324,
+                "order": 50,
+                "value": "中国大陆",
+                "name": "产地",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "goods_id": 94981324,
+                "order": 50,
+                "value": "PCM彩涂板",
+                "name": "面板类型",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 4,
+                "goods_id": 94981324,
+                "order": 50,
+                "value": "风冷无霜",
+                "name": "系列",
+                "default": "默认值",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "goods_id": 94981324,
+                "order": 50,
+                "value": "对开双门式",
+                "name": "箱门结构",
+                "default": "默认值",
+                "type": 0
+            }
+        ],
+        "goodsSkus": [
+            {
+                "id": 1,
+                "image": "",
+                "pprice": "4790",
+                "oprice": "5690",
+                "cprice": "200",
+                "stock": 2,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 94981324,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "颜色分类",
+                        "value": "白色"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "image": "",
+                "pprice": "4990",
+                "oprice": "5890",
+                "cprice": "200",
+                "stock": 7,
+                "volume": 5,
+                "weight": 6,
+                "code": "666",
+                "goods_id": 94981324,
+                "skus": {
+                    "0": {
+                        "goods_skus_card_id": 1,
+                        "id": 1,
+                        "name": "颜色分类",
+                        "value": "黑色"
+                    }
+                }
+            }
+        ],
+        "goodsSkusCard": [
+            {
+                "id": 1,
+                "goods_id": 94981324,
+                "name": "颜色分类",
+                "type": 0,
+                "order": 50,
+                "goodsSkusCardValue": [
+                    {
+                        "id": 1,
+                        "goods_skus_card_id": 1,
+                        "name": "颜色分类",
+                        "value": "白色",
+                        "order": 50
+                    },
+                    {
+                        "id": 2,
+                        "goods_skus_card_id": 1,
+                        "name": "颜色分类",
+                        "value": "黑色",
+                        "order": 50
+                    }
+                ]
+            }
+        ]
+    }
+]
