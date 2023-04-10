@@ -11,7 +11,11 @@ const app = express();
 import index_category from "./routes/index_category.js";
 import goods from "./routes/goods.js";
 import category from "./routes/category.js";
-
+import sys from "./routes/sys.js";
+import address from "./routes/address.js";
+import cart from "./routes/cart.js";
+import coupon from "./routes/coupon.js";
+import order from "./routes/order.js";
 // view engine setup
 const __dirname = path.resolve();
 app.set("views", path.join(__dirname, "views"));
@@ -27,6 +31,11 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use("/index_category", index_category);
 app.use("/goods", goods);
 app.use("/category", category);
+app.use("/", sys);
+app.use("/address", address);
+app.use("/cart", cart);
+app.use("/coupon", coupon);
+app.use("/order", order);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
