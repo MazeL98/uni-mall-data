@@ -12,7 +12,7 @@ function login(req) {
             data: {
                 id: 1,
                 username: "user01",
-                avatar: "http://qiniuyun.mazel98.com/uni-mall/user01-avatar.png",
+                avatar: "https://qiniuyun.mazel98.com/uni-mall/user01-avatar.png",
                 nickname: "测试用户",
                 phone: "13268816818",
                 email: "1818518@mazel.com",
