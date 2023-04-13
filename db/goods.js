@@ -67,9 +67,9 @@ function searchGoods(req) {
     if (title) {
         let resList = allGoodsData.filter((item) => item.title.includes(title));
         // 有搜索关键词但没有搜到相关商品
-        if (!resList) {
+        if (!resList.length) {
             return {
-                mes: "ok",
+                msg: "ok",
                 data: [],
             };
         } else {
